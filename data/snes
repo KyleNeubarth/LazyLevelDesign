@@ -1,0 +1,11 @@
+SNES Controller
+X	X position	3	SLIDER	X Axis	0	1.0	0.0
+Y	Y position	3	SLIDER	Y Axis	0	1.0	0.0
+ZERO	0	1	BUTTON	Button 0	0	0.0	0.0
+ONE	1	1	BUTTON	Button 1	0	0.0	0.0
+TWO	2	1	BUTTON	Button 2	0	0.0	0.0
+THREE	3	1	BUTTON	Button 3	0	0.0	0.0
+FOUR	4	1	BUTTON	Button 4	0	0.0	0.0
+FIVE	5	1	BUTTON	Button 5	0	0.0	0.0
+SIX	6	1	BUTTON	Button 6	0	0.0	0.0
+SEVEN	7	1	BUTTON	Button 7	0	0.0	0.0
